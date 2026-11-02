@@ -75,7 +75,9 @@ article {
   padding: 16px;
   margin-bottom: 16px;
 }
-
+.pris {
+  color: #8c1010;
+}
 article img,
 #om-oss img {
   max-width: 100%;
